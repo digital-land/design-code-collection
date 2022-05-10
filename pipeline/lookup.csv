@@ -2,7 +2,9 @@ prefix,resource,entry-number,organisation,reference,entity
 design-code,,,local-authority-eng:NUN,HSG2,641000
 design-code,,,local-authority-eng:BUC,1,641001
 design-code,,,local-authority-eng:GRT,WUV,641002
+design-code,,,local-authority-eng:HYN,HNCHZBJU,641003
 design-code-area,,,local-authority-eng:NUN,HSG2 western parcel,627000
 design-code-area,,,local-authority-eng:NUN,HSG2 eastern parcel,627001
 design-code-area,,,local-authority-eng:BUC,E10000002,627002
 design-code-area,,,local-authority-eng:GRT,01715E Phase 1,627003
+design-code-area,,,local-authority-eng:HYN,5,627004
