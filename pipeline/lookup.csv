@@ -1,3 +1,4 @@
 prefix,resource,entry-number,organisation,reference,entity
 design-code,,,local-authority-eng:NUN,HSG2,641000
-design-code-area,,,local-authority-eng:NUN,HSG2,627000
+design-code-area,,,local-authority-eng:NUN,HSG2 western parcel,627000
+design-code-area,,,local-authority-eng:NUN,HSG2 eastern parcel,627001
