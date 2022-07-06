@@ -42,6 +42,12 @@
     </StyleMap>
     <Placemark>
       <name>Pilot NMDC Code Area</name>
+      <ExtendedData>
+          <Data name="design-code">
+            <displayName>Design code</displayName>
+            <value>1</value>
+          </Data>
+      </ExtendedData>
       <styleUrl>#poly-F9A825-4201-74-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>

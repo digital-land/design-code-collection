@@ -1,0 +1,16 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 3
+    Name Char (50) ;
+    Capacity_Homes Char (10) ;
+    Capacity_Jobs Char (10) ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "d24e9636-7810-480a-b5d2-2c924689eb01"
+"\MapInfo\ParentTableID" = "db74110a-e107-4fd9-9700-083ea5d11fac"
+end_metadata
