@@ -1,2 +1,12 @@
 entity,reference,name
 640000,exemplar,Office for Place exemplar
+640001,context,Context
+640002,identity,Identity
+640003,built-form,Built form
+640004,movement,Movement
+640005,nature,Nature
+640006,public-spaces,Public spaces
+640007,uses,Uses
+640008,homes-and-buildings,Homes and buildings
+640009,resources,Resources
+640010,lifespan,Lifespan
