@@ -1,4 +1,4 @@
-# Design code collection
+# Design code collection ⚠️ Centralised
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/design-code/blob/main/LICENSE)
 [![Run pipeline](https://github.com/digital-land/design-code-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/design-code-collection/actions/workflows/run.yml)
